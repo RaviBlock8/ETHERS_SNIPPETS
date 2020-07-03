@@ -1,0 +1,16 @@
+{
+  "name": "ethers_codebase",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wallet": "node indexWallet.js"
+  },
+  "author": "ravi",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.0.3",
+    "jsbi": "^3.1.3"
+  }
+}
